@@ -61,7 +61,7 @@ nt Northwest Territories
 ns Nova Scotia
 nu Nunavut
 on Ontario
-qc Québec
+qc Quebec
 sk Saskatchewan
 yt Yukon
 dengl Greenland (Denmark)
